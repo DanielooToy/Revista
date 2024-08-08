@@ -157,7 +157,7 @@
                             <div class="card-body d-flex flex-column justify-content-center align-items-center">
                                 <h3 class="card-title text-center">Núm 3 Vol 2 Julio - Diciembre 2023</h3>
                                 <p class="card-text text-center">
-                                    <img src="img/portada3.png" class="card-img">
+                                    <img src="img/portada4.jpeg" class="card-img">
                                 </p>
                             </div>
                             <div class="card-footer d-flex justify-content-center">
@@ -170,7 +170,7 @@
                             <div class="card-body d-flex flex-column justify-content-center align-items-center">
                                 <h3 class="card-title text-center">Núm 2 Vol 1 Enero - Junio 2023</h3>
                                 <p class="card-text text-center">
-                                    <img src="img/portada2.png" class="card-img">
+                                    <img src="img/portada4.jpeg" class="card-img">
                                 </p>
                             </div>
                             <div class="card-footer d-flex justify-content-center">
@@ -183,7 +183,7 @@
                             <div class="card-body d-flex flex-column justify-content-center align-items-center">
                                 <h3 class="card-title text-center">Núm 1 Vol 1 Julio - Diciembre 2022</h3>
                                 <p class="card-text text-center">
-                                    <img src="img/portada1.png" class="card-img">
+                                    <img src="img/portada4.jpeg" class="card-img">
                                 </p>
                             </div>
                             <div class="card-footer d-flex justify-content-center">
