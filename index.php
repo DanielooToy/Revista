@@ -106,7 +106,7 @@
             <!-- Botón Regresar visible en dispositivos móviles -->
             <div class="col-lg-4 text-center text-lg-end d-lg-none">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a href="../Inicio.php" class="btn btn-outline-white" style="color: #000000; z-index: 1; border-color: #121721;">
+                    <a href="../index.php" class="btn btn-outline-white" style="color: #000000; z-index: 1; border-color: #121721;">
                         <i class="bi bi-arrow-bar-left" style="color:#121721;"></i> Regresar
                     </a>
                 </div>

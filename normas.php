@@ -140,7 +140,7 @@
             </div>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="inicio.php" class="nav-item nav-link ">Inicio</a>
+                    <a href="index.php" class="nav-item nav-link ">Inicio</a>
                     <a href="normas.php" class="nav-item nav-link active">Información para los autores</a>
                     <a href="arbitral.php" class="nav-item nav-link">Consejo arbitral</a>
                 </div>
